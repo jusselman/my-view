@@ -1,0 +1,13 @@
+.Header {
+    text-align: center;
+    color: var(--primary);
+    margin: 100px auto;
+}
+
+.Header h2 {
+    font-size: 30px;
+}
+
+.Header p {
+    margin-top: 15px;
+}

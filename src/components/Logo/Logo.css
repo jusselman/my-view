@@ -1,0 +1,7 @@
+.Logo {
+    font-size: 40px;
+    color: var(--primary);
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
